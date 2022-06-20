@@ -37,4 +37,6 @@
 
 // bonus
 
-let change = "bonjour"
+let change = "bonjour";
+
+console.log(change.replace("o", "a"));
