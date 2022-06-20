@@ -20,7 +20,21 @@
 // console.log(food.replace("meh", 'good'));
 
 // exo 6
-const basic = `This is cool`
-const basicUp = `BASIC`
-const basicDown = `basic`
-console.log(basic, basicUp, basicDown);
+// const basic = `This is cool`
+// const basicUp = `BASIC`
+// const basicDown = `basic`
+// console.log(basic, basicUp, basicDown);
+
+// exo 7
+// const word = "banana";
+// const letters = word.split("")
+// console.log(letters);
+
+// exo 8
+// const age = 32;
+// const template = `I'm ${age}`
+// console.log(template);
+
+// bonus
+
+let change = "bonjour"
