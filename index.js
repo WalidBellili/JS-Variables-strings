@@ -24,6 +24,12 @@
 // const basicUp = `BASIC`
 // const basicDown = `basic`
 // console.log(basic, basicUp, basicDown);
+// const basic = "This is cool"
+
+// const basicUp = basic.toUpperCase();
+// console.log(basicUp);
+// const basicDown = basicUp.toLowerCase()
+// console.log(basicDown);
 
 // exo 7
 // const word = "banana";
@@ -41,9 +47,8 @@
 
 // console.log(change.replace("o", "a"));
 
-const basic = "This is cool"
+// sbustring mozillaDoc
 
-const basicUp = basic.toUpperCase();
-console.log(basicUp);
-const basicDown = basicUp.toLowerCase()
-console.log(basicDown);
+const string = "je teste une chaine de caracteres"
+console.log(string.substring(0, 10));
+
