@@ -37,6 +37,13 @@
 
 // bonus
 
-let change = "bonjour";
+// let change = "bonjour";
 
-console.log(change.replace("o", "a"));
+// console.log(change.replace("o", "a"));
+
+const basic = "This is cool"
+
+const basicUp = basic.toUpperCase();
+console.log(basicUp);
+const basicDown = basicUp.toLowerCase()
+console.log(basicDown);
