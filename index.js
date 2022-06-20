@@ -46,6 +46,7 @@
 // let change = "bonjour";
 
 // console.log(change.replace("o", "a"));
+// replaceALL
 
 // sbustring mozillaDoc
 
