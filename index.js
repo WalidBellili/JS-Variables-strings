@@ -49,6 +49,11 @@
 
 // sbustring mozillaDoc
 
-const string = "je teste une chaine de caracteres"
-console.log(string.substring(0, 10));
+// const string = "je teste une chaine de caracteres"
+// console.log(string.substring(0, 10));
+
+const string2 = "Le chartAt"
+
+console.log(string2.charCodeAt(2));
+console.log(String.fromCharCode(22));
 
